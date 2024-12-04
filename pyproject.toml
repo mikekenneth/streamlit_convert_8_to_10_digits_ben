@@ -1,0 +1,9 @@
+[project]
+name = "convert-8-to-10-digits-ben"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12.7"
+dependencies = [
+    "streamlit>=1.40.2",
+]
